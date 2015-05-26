@@ -1,2 +1,6 @@
+[.homesick/repos/homesick]
+checkout = git clone 'git@github.com:andsens/homeshick.git' 'homeshick'
+
 [.homesick/repos/castle-dot]
 checkout = git clone 'git@github.com:HaMster21/castle-dot' 'castle-dot'
+
